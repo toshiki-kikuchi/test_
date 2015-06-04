@@ -9,6 +9,6 @@ this test repository is first project in my life.I feel so nervous...
 *ふじた
 *こうすけ
 
-##　ファイル構成
+## ファイル構成
 
 ## リリース方法
